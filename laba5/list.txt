@@ -1,0 +1,112 @@
+Параметр поиска: фамилия. Искомое значение: tyu
+tyu	tyu	tyu	2000	77777777777	tyu	222	2	-	tyu
+
+Параметр поиска: отчество. Искомое значение: asd
+tyu	tyu	tyu	2000	77777777777	tyu	222	2	-	tyu
+wer	wer	wer	2020	79997777777	wer	444	4	+	wer
+vbn	vbn	vbn	2005	76667777777	vbn	333	3	+	vbn
+
+Параметр поиска: резус-фактор. Искомое значение: +
+wer	wer	wer	2020	79997777777	wer	444	4	+	wer
+vbn	vbn	vbn	2005	76667777777	vbn	333	3	+	vbn
+vbn	tyu	asd	1990	79999777777	gfh	777	1	+	edc
+
+Параметр поиска: имя. Искомое значение: wer
+wer	wer	wer	2020	79997777777	wer	444	4	+	wer
+
+Параметр поиска: год рождения. Искомое значение: 2000
+tyu	tyu	tyu	2000	77777777777	tyu	222	2	-	tyu
+
+Параметр поиска: номер телефона. Искомое значение: 77778889090
+Пациент с искомым значением не найден.
+
+Параметр поиска: адрес. Искомое значение: yhj
+Пациент с искомым значением не найден.
+
+Параметр поиска: номер медицинской карты. Искомое значение: 666
+Пациент с искомым значением не найден.
+
+Параметр поиска: группа крови. Искомое значение: 2
+tyu	tyu	tyu	2000	77777777777	tyu	222	2	-	tyu
+
+Параметр поиска: диагноз. Искомое значение: edc
+vbn	tyu	asd	1990	79999777777	gfh	777	1	+	edc
+
+
+Параметр сортировки: фамилия.
+asd	asd	asd	2010	78887777777	asd	111	1	-	asd
+tyu	tyu	tyu	2000	77777777777	tyu	222	2	-	tyu
+vbn	vbn	vbn	2005	76667777777	vbn	333	3	+	vbn
+vbn	tyu	asd	1990	79999777777	gfh	777	1	+	edc
+wer	wer	wer	2020	79997777777	wer	444	4	+	wer
+
+Параметр сортировки: имя.
+asd	asd	asd	2010	78887777777	asd	111	1	-	asd
+tyu	tyu	tyu	2000	77777777777	tyu	222	2	-	tyu
+vbn	tyu	asd	1990	79999777777	gfh	777	1	+	edc
+vbn	vbn	vbn	2005	76667777777	vbn	333	3	+	vbn
+wer	wer	wer	2020	79997777777	wer	444	4	+	wer
+
+Параметр сортировки: отчество.
+asd	asd	asd	2010	78887777777	asd	111	1	-	asd
+vbn	tyu	asd	1990	79999777777	gfh	777	1	+	edc
+tyu	tyu	tyu	2000	77777777777	tyu	222	2	-	tyu
+vbn	vbn	vbn	2005	76667777777	vbn	333	3	+	vbn
+wer	wer	wer	2020	79997777777	wer	444	4	+	wer
+
+Параметр сортировки: год рождения.
+vbn	tyu	asd	1990	79999777777	gfh	777	1	+	edc
+tyu	tyu	tyu	2000	77777777777	tyu	222	2	-	tyu
+vbn	vbn	vbn	2005	76667777777	vbn	333	3	+	vbn
+asd	asd	asd	2010	78887777777	asd	111	1	-	asd
+wer	wer	wer	2020	79997777777	wer	444	4	+	wer
+
+Параметр сортировки: номер телефона.
+vbn	vbn	vbn	2005	76667777777	vbn	333	3	+	vbn
+tyu	tyu	tyu	2000	77777777777	tyu	222	2	-	tyu
+asd	asd	asd	2010	78887777777	asd	111	1	-	asd
+wer	wer	wer	2020	79997777777	wer	444	4	+	wer
+vbn	tyu	asd	1990	79999777777	gfh	777	1	+	edc
+
+Параметр сортировки: адрес.
+asd	asd	asd	2010	78887777777	asd	111	1	-	asd
+vbn	tyu	asd	1990	79999777777	gfh	777	1	+	edc
+tyu	tyu	tyu	2000	77777777777	tyu	222	2	-	tyu
+vbn	vbn	vbn	2005	76667777777	vbn	333	3	+	vbn
+wer	wer	wer	2020	79997777777	wer	444	4	+	wer
+
+Параметр сортировки: номер медицинской карты.
+asd	asd	asd	2010	78887777777	asd	111	1	-	asd
+tyu	tyu	tyu	2000	77777777777	tyu	222	2	-	tyu
+vbn	vbn	vbn	2005	76667777777	vbn	333	3	+	vbn
+wer	wer	wer	2020	79997777777	wer	444	4	+	wer
+vbn	tyu	asd	1990	79999777777	gfh	777	1	+	edc
+
+Параметр сортировки: группа крови.
+asd	asd	asd	2010	78887777777	asd	111	1	-	asd
+vbn	tyu	asd	1990	79999777777	gfh	777	1	+	edc
+tyu	tyu	tyu	2000	77777777777	tyu	222	2	-	tyu
+vbn	vbn	vbn	2005	76667777777	vbn	333	3	+	vbn
+wer	wer	wer	2020	79997777777	wer	444	4	+	wer
+
+Параметр сортировки: резус-фактор.
+asd	asd	asd	2010	78887777777	asd	111	1	-	asd
+tyu	tyu	tyu	2000	77777777777	tyu	222	2	-	tyu
+vbn	tyu	asd	1990	79999777777	gfh	777	1	+	edc
+vbn	vbn	vbn	2005	76667777777	vbn	333	3	+	vbn
+wer	wer	wer	2020	79997777777	wer	444	4	+	wer
+
+Параметр сортировки: диагноз.
+asd	asd	asd	2010	78887777777	asd	111	1	-	asd
+vbn	tyu	asd	1990	79999777777	gfh	777	1	+	edc
+tyu	tyu	tyu	2000	77777777777	tyu	222	2	-	tyu
+vbn	vbn	vbn	2005	76667777777	vbn	333	3	+	vbn
+wer	wer	wer	2020	79997777777	wer	444	4	+	wer
+
+
+Пациенты:
+tyu	tyu	tyu	2000	77777777777	tyu	222	2	-	tyu
+wer	wer	wer	2020	79997777777	wer	444	4	+	wer
+asd	asd	asd	2010	78887777777	asd	111	1	-	asd
+vbn	vbn	vbn	2005	76667777777	vbn	333	3	+	vbn
+vbn	tyu	asd	1990	79999777777	gfh	777	1	+	edc
