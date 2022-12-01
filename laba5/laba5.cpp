@@ -414,7 +414,7 @@ void SearchByPatronym(int stop, FILE* fout)
     search[u] = '\0';
     fprintf(fout, "%s", "Параметр поиска: отчество. Искомое значение: "); fprintf(fout, "%s\n", search);
     for (int i = 0; i < stop; i++) {
-        if (strcmp(search, database[i].patronym)) {
+        if (strcmp(search, database[i].patronym) == 0) {
             DataOutput(fout, i);
             count++;
         }
