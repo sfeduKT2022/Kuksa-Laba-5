@@ -303,11 +303,11 @@ void DataShow(int i)
     printf("Фамилия %d пациента: %s\n", k, database[i].surname);
     printf("Имя %d пациента: %s\n", k, database[i].name);
     printf("Отчество %d пациента: %s\n", k, database[i].patronym);
-    printf("Год %d рождения пациента: %d\n", k, database[i].birth);
-    printf("Номер %d телефона пациента: %lld\n", k, database[i].phoneNum);
+    printf("Год рождения %d пациента: %d\n", k, database[i].birth);
+    printf("Номер телефона %d пациента: %lld\n", k, database[i].phoneNum);
     printf("Адрес %d пациента: %s\n", k, database[i].address);
-    printf("Номер %d медицинской карты пациента: %lld\n", k, database[i].medCard);
-    printf("Группа %d крови пациента: %d\n", k, database[i].bloodType);
+    printf("Номер медицинской карты %d пациента: %lld\n", k, database[i].medCard);
+    printf("Группа крови %d пациента: %d\n", k, database[i].bloodType);
     printf("Резус-фактор %d пациента: %c\n", k, database[i].rhFact);
     printf("Диагноз %d пациента: %s\n", k, database[i].diagnosis);
     printf("\n");
