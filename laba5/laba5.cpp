@@ -138,7 +138,6 @@ int DataInput(int p)
             }
         }
         while (u == 0) {
-            u = 0;
             printf("Введите корректные данные: ");
             fgets(enter, lenght, stdin);
             for (d = 0; enter[d] != '\n'; d++) {
@@ -160,7 +159,6 @@ int DataInput(int p)
             }
         }
         while (u == 0) {
-            u = 0;
             printf("Введите корректные данные: ");
             fgets(enter, lenght, stdin);
             for (d = 0; enter[d] != '\n'; d++) {
@@ -182,7 +180,6 @@ int DataInput(int p)
             }
         }
         while (u == 0) {
-            u = 0;
             printf("Введите корректные данные: ");
             fgets(enter, lenght, stdin);
             for (d = 0; enter[d] != '\n'; d++) {
